@@ -1,0 +1,25 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "description": "Code samples, mostly from codewars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelyseev/samples.git"
+  },
+  "author": "aelyseev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelyseev/samples/issues"
+  },
+  "homepage": "https://github.com/aelyseev/samples#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
